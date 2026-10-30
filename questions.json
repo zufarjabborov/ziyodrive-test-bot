@@ -1,0 +1,103 @@
+
+[
+  {
+    "question": "O‘zbekiston yo‘llarida transport vositalari qaysi tomondan harakatlanadi?",
+    "options": ["A) Chap tomondan", "B) O‘ng tomondan", "C) Yo‘lning o‘rtasidan", "D) Vaziyatga qarab"],
+    "answer": "B"
+  },
+  {
+    "question": "Haydovchi yo‘lga chiqishdan oldin nimani tekshirishi shart?",
+    "options": ["A) Faqat yonilg‘ini", "B) Faqat faralarni", "C) Transport vositasining texnik sozligini", "D) Faqat salonni"],
+    "answer": "C"
+  },
+  {
+    "question": "Yo‘l-transport hodisasi sodir bo‘lganda haydovchi birinchi navbatda nima qilishi kerak?",
+    "options": ["A) Hodisa joyidan ketishi", "B) Transport vositasini to‘xtatishi", "C) Mashinani yuvishi", "D) Harakatni davom ettirishi"],
+    "answer": "B"
+  },
+  {
+    "question": "Aholi punktida avariya sababli to‘xtash belgisi kamida qancha masofaga qo‘yiladi?",
+    "options": ["A) 5 metr", "B) 10 metr", "C) 15 metr", "D) 30 metr"],
+    "answer": "C"
+  },
+  {
+    "question": "Aholi punktidan tashqarida avariya sababli to‘xtash belgisi kamida qancha masofaga qo‘yiladi?",
+    "options": ["A) 10 metr", "B) 15 metr", "C) 20 metr", "D) 30 metr"],
+    "answer": "D"
+  },
+  {
+    "question": "Svetoforning qizil chirog‘i nimani bildiradi?",
+    "options": ["A) Harakatlanishga ruxsat", "B) Harakatlanish taqiqlanadi", "C) Faqat o‘ngga yurish mumkin", "D) Tezlikni oshirish kerak"],
+    "answer": "B"
+  },
+  {
+    "question": "Svetoforning yashil chirog‘i nimani bildiradi?",
+    "options": ["A) Harakatlanishga ruxsat beradi", "B) Harakatni taqiqlaydi", "C) Faqat to‘xtashni bildiradi", "D) Faqat orqaga yurishga ruxsat beradi"],
+    "answer": "A"
+  },
+  {
+    "question": "Haydovchi harakatlanishni boshlashdan oldin nimaga ishonch hosil qilishi kerak?",
+    "options": ["A) Eshiklar yopilganiga va yo‘lovchilar joylashganiga", "B) Radio ishlashiga", "C) Telefon quvvatiga", "D) Oynalar qoraytirilganiga"],
+    "answer": "A"
+  },
+  {
+    "question": "Yo‘l harakati qatnashchilari bir-biriga qanday munosabatda bo‘lishi kerak?",
+    "options": ["A) Har doim signal berishi", "B) To‘sqinlik qilmasligi va xavf tug‘dirmasligi", "C) Faqat tez yurishi", "D) Faqat o‘z manfaatini o‘ylashi"],
+    "answer": "B"
+  },
+  {
+    "question": "Tartibga solinmagan chorrahada haydovchi nimalarga amal qilishi kerak?",
+    "options": ["A) Faqat tezlikka", "B) Imtiyoz belgilariga va chorrahadan o‘tish qoidalariga", "C) Faqat boshqa haydovchining signaliga", "D) Faqat yo‘l chizig‘iga"],
+    "answer": "B"
+  },
+  {
+    "question": "Miltillovchi sariq svetofor ishorasi yonib turgan chorraha qanday hisoblanadi?",
+    "options": ["A) Tartibga solingan", "B) Tartibga solinmagan", "C) Faqat piyodalar chorrahasi", "D) Harakat taqiqlangan"],
+    "answer": "B"
+  },
+  {
+    "question": "Haydovchi yo‘lovchilarni tashishdan oldin nimaga e’tibor berishi kerak?",
+    "options": ["A) Yo‘lovchilar xavfsiz joylashganiga", "B) Yo‘lovchilar musiqa tanlaganiga", "C) Oynalar ochiqligiga", "D) Yukxona bo‘shligiga"],
+    "answer": "A"
+  },
+  {
+    "question": "Yo‘l harakati qoidalariga ko‘ra haydovchi kim hisoblanadi?",
+    "options": ["A) Faqat avtomobil egasi", "B) Yo‘lda transport vositasini boshqarayotgan shaxs", "C) Faqat yo‘lovchi", "D) Faqat piyoda"],
+    "answer": "B"
+  },
+  {
+    "question": "Yo‘l-transport hodisasida jarohatlanganlar bo‘lsa, haydovchi nima qilishi kerak?",
+    "options": ["A) Yordam ko‘rsatish choralarini ko‘rishi va tez yordam chaqirishi", "B) Hodisa joyini tark etishi", "C) Faqat mashinani ta’mirlashi", "D) Boshqa mashinani kutishi"],
+    "answer": "A"
+  },
+  {
+    "question": "Haydovchi harakatlanish vaqtida transport vositasining nimasi uchun javobgar?",
+    "options": ["A) Faqat tashqi ko‘rinishi uchun", "B) Texnik sozligini ta’minlash uchun", "C) Faqat rangining tozaligi uchun", "D) Faqat salon jihozlari uchun"],
+    "answer": "B"
+  },
+  {
+    "question": "Yo‘l harakatini tartibga soluvchi shaxsning vakolati doirasidagi ko‘rsatmalariga haydovchi qanday munosabatda bo‘lishi kerak?",
+    "options": ["A) Bajarishi shart", "B) Xohishiga qarab bajaradi", "C) E’tibor bermaydi", "D) Faqat boshqa mashinalar bajarsa bajaradi"],
+    "answer": "A"
+  },
+  {
+    "question": "Yo‘l qoplamasiga yoki yo‘l belgilariga o‘zboshimchalik bilan zarar yetkazish mumkinmi?",
+    "options": ["A) Ha, istalgan vaqtda", "B) Faqat kechasi", "C) Yo‘q, taqiqlanadi", "D) Faqat haydovchilar uchun mumkin"],
+    "answer": "C"
+  },
+  {
+    "question": "Yondosh hududdan yo‘lga chiqayotgan transport vositasi kimlarga yo‘l berishi kerak?",
+    "options": ["A) Faqat yuk avtomobillariga", "B) Barcha yo‘l harakati ishtirokchilariga", "C) Faqat avtobuslarga", "D) Hech kimga"],
+    "answer": "B"
+  },
+  {
+    "question": "Yo‘l-transport hodisasi sodir bo‘lganda haydovchi avariya yorug‘lik ishorasini nima uchun yoqadi?",
+    "options": ["A) Boshqa haydovchilarni xavfdan ogohlantirish uchun", "B) Batareyani zaryadlash uchun", "C) Mashinani tezroq yurgizish uchun", "D) Yo‘lni yoritish uchun"],
+    "answer": "A"
+  },
+  {
+    "question": "Yo‘l harakati qoidalari O‘zbekiston hududida qanday tartibni belgilaydi?",
+    "options": ["A) Faqat shahar transporti tartibini", "B) Yo‘l harakatining yagona tartibini", "C) Faqat yuk tashish tartibini", "D) Faqat piyodalar harakatini"],
+    "answer": "B"
+  }
+]
