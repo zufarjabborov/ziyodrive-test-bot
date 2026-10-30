@@ -1,0 +1,262 @@
+[
+  {
+    "topic": "YHQning umumiy qoidalari",
+    "question": "Yo‘l harakati ishtirokchilari qanday yo‘l tutishi kerak?",
+    "options": [
+      "Yo‘l harakati qoidalariga rioya qilishi va xavfsizlikni ta’minlashi",
+      "Faqat o‘z manziliga tez yetib olishi",
+      "Boshqa ishtirokchilarga yo‘l bermasligi",
+      "Yo‘l belgilariga faqat nazorat bo‘lganda amal qilishi"
+    ],
+    "answer": "A",
+    "explanation": "Har bir ishtirokchi YHQ talablariga amal qilishi va xavf tug‘dirmasligi kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Svetofor ishoralari",
+    "question": "Svetoforning qizil ishorasi nimani bildiradi?",
+    "options": [
+      "Harakatlanishga ruxsat beradi",
+      "Harakatlanishni taqiqlaydi",
+      "Faqat tezlikni kamaytirishni bildiradi",
+      "Faqat piyodalarga tegishli"
+    ],
+    "answer": "B",
+    "explanation": "Qizil ishora harakatlanishni taqiqlaydi.",
+    "image_file": null
+  },
+  {
+    "topic": "Svetofor ishoralari",
+    "question": "Svetoforning yashil ishorasi nimani bildiradi?",
+    "options": [
+      "Harakatlanish taqiqlanganini",
+      "Faqat o‘ngga burilishni",
+      "Harakatlanishga ruxsat berilishini",
+      "Majburiy to‘xtashni"
+    ],
+    "answer": "C",
+    "explanation": "Yashil ishora belgilangan yo‘nalishlarda harakatlanishga ruxsat beradi.",
+    "image_file": null
+  },
+  {
+    "topic": "Yo‘l belgilari",
+    "question": "Ogohlantiruvchi yo‘l belgilarining asosiy vazifasi nima?",
+    "options": [
+      "Oldindagi xavf yoki yo‘l sharoiti haqida ogohlantirish",
+      "Avtoturargoh narxini ko‘rsatish",
+      "Harakatni doimo taqiqlash",
+      "Transport vositasining tezligini o‘lchash"
+    ],
+    "answer": "A",
+    "explanation": "Ogohlantiruvchi belgilar haydovchini oldindagi xavf haqida xabardor qiladi.",
+    "image_file": null
+  },
+  {
+    "topic": "Yo‘l belgilari",
+    "question": "Taqiqlovchi yo‘l belgilarining vazifasi nima?",
+    "options": [
+      "Xizmat ko‘rsatish joyini ko‘rsatish",
+      "Muayyan harakatlarga cheklov yoki taqiq belgilash",
+      "Faqat yo‘nalishni ko‘rsatish",
+      "Faqat piyodalar yo‘lini belgilash"
+    ],
+    "answer": "B",
+    "explanation": "Taqiqlovchi belgilar ayrim harakatlarni cheklaydi yoki taqiqlaydi.",
+    "image_file": null
+  },
+  {
+    "topic": "Yo‘l belgilari",
+    "question": "Buyuruvchi yo‘l belgilari odatda nimani bildiradi?",
+    "options": [
+      "Harakatni to‘xtatish kerakligini",
+      "Xavfli burilishni",
+      "Bajarilishi shart bo‘lgan harakat yo‘nalishi yoki tartibini",
+      "Yaqin atrofda xizmat ko‘rsatish joyi borligini"
+    ],
+    "answer": "C",
+    "explanation": "Buyuruvchi belgilar belgilangan yo‘nalish yoki harakat tartibiga amal qilishni talab qiladi.",
+    "image_file": null
+  },
+  {
+    "topic": "Imtiyoz belgilari",
+    "question": "«Asosiy yo‘l» belgisi nimani bildiradi?",
+    "options": [
+      "Haydovchi barcha chorrahalarda to‘xtashi kerakligini",
+      "Yo‘l faqat avtobuslar uchun ekanini",
+      "Harakatlanish taqiqlanganini",
+      "Tegishli chorrahada kesishayotgan yo‘llarga nisbatan imtiyoz borligini"
+    ],
+    "answer": "D",
+    "explanation": "Asosiy yo‘l belgisi tartibga solinmagan chorrahada ustunlikni belgilashga xizmat qiladi.",
+    "image_file": null
+  },
+  {
+    "topic": "Yotiq chiziqlar",
+    "question": "Uzluksiz yotiq chiziqni bosib o‘tish masalasida haydovchi nimaga amal qilishi kerak?",
+    "options": [
+      "Chiziq talablariga va YHQdagi ruxsat etilgan istisnolarga",
+      "Faqat oldindagi avtomobil harakatiga",
+      "Faqat ob-havo sharoitiga",
+      "Istalgan vaqtda chiziqni kesib o‘tishi mumkin"
+    ],
+    "answer": "A",
+    "explanation": "Uzluksiz chiziqni kesib o‘tish odatda taqiqlanadi; istisnolar YHQda belgilangan holatlarga bog‘liq.",
+    "image_file": null
+  },
+  {
+    "topic": "Tik chiziqlar",
+    "question": "Tik chiziqlar asosan nimani belgilaydi?",
+    "options": [
+      "Yo‘lning tezlik chegarasini",
+      "Yo‘l inshootlari va jihozlarining ayrim elementlarini",
+      "Transport vositalarining to‘xtash vaqtini",
+      "Piyodalar harakat jadvalini"
+    ],
+    "answer": "B",
+    "explanation": "Tik chiziqlar yo‘l inshootlari va jihozlarining xavfli yoki ko‘zga tashlanishi zarur qismlarini belgilaydi.",
+    "image_file": null
+  },
+  {
+    "topic": "Piyodalar",
+    "question": "Haydovchi tartibga solinmagan piyodalar o‘tish joyiga yaqinlashganda nima qilishi kerak?",
+    "options": [
+      "Tezlikni oshirishi",
+      "Signal chalib o‘tib ketishi",
+      "Piyodaga yo‘l berish uchun tezlikni kamaytirishi yoki to‘xtashi",
+      "Piyodani kutishga majbur qilishi"
+    ],
+    "answer": "C",
+    "explanation": "Piyodalar o‘tish joyida piyodalar xavfsizligini ta’minlash kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Temir yo‘l kesishmasi",
+    "question": "Temir yo‘l kesishmasida shlagbaum yopilayotgan bo‘lsa, haydovchi nima qilishi kerak?",
+    "options": [
+      "Shlagbaum ostidan o‘tishi",
+      "Qarama-qarshi yo‘nalishga chiqishi",
+      "Tezlikni oshirishi",
+      "Kesishmaga kirmasdan to‘xtashi"
+    ],
+    "answer": "D",
+    "explanation": "Yopilayotgan shlagbaum oldida kesishmaga kirish taqiqlanadi.",
+    "image_file": null
+  },
+  {
+    "topic": "Xavfsizlik kamari",
+    "question": "Xavfsizlik kamari bilan jihozlangan avtomobilda kamar nimaga xizmat qiladi?",
+    "options": [
+      "YTH paytida jarohatlanish xavfini kamaytirishga",
+      "Avtomobil tezligini oshirishga",
+      "Tormoz masofasini qisqartirishga",
+      "Dvigatelni sovitishga"
+    ],
+    "answer": "A",
+    "explanation": "Xavfsizlik kamari to‘qnashuv yoki keskin tormozlanishda odamning jarohatlanish xavfini kamaytiradi.",
+    "image_file": null
+  },
+  {
+    "topic": "Tezlik",
+    "question": "Haydovchi tezlikni tanlashda nimani hisobga olishi kerak?",
+    "options": [
+      "Faqat avtomobil rusumini",
+      "Yo‘l, ob-havo, ko‘rinish va transport holatini",
+      "Faqat yo‘lovchilar sonini",
+      "Faqat manzilgacha bo‘lgan masofani"
+    ],
+    "answer": "B",
+    "explanation": "Tezlik yo‘l va ob-havo sharoiti hamda ko‘rinishga mos bo‘lishi kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Quvib o‘tish",
+    "question": "Quvib o‘tishni boshlashdan oldin haydovchi nimaga ishonch hosil qilishi kerak?",
+    "options": [
+      "Oldindagi avtomobil signal bermayotganiga",
+      "Orqadagi avtomobil rangiga",
+      "Qarama-qarshi yo‘nalishda yetarli masofa va xavfsiz sharoit borligiga",
+      "Yo‘l chetida piyoda yo‘qligiga xolos"
+    ],
+    "answer": "C",
+    "explanation": "Quvib o‘tish faqat xavfsiz va qoidalar ruxsat bergan sharoitda bajariladi.",
+    "image_file": null
+  },
+  {
+    "topic": "To‘xtash va to‘xtab turish",
+    "question": "To‘xtash yoki to‘xtab turishdan oldin haydovchi nima qilishi kerak?",
+    "options": [
+      "Faqat tezlikni oshirishi",
+      "Avariya chiroqlarini har doim yoqishi",
+      "Rulni qo‘yib yuborishi",
+      "To‘xtash joyi va boshqa harakat ishtirokchilariga xalaqit bermasligini tekshirishi"
+    ],
+    "answer": "D",
+    "explanation": "To‘xtash va to‘xtab turish qoidalarga muvofiq, xavfsiz joyda bajarilishi kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Tashqi yoritish",
+    "question": "Qorong‘i vaqtda yoritilmagan yo‘lda haydovchi nimadan foydalanishi kerak?",
+    "options": [
+      "Yo‘l sharoitiga mos tashqi yoritish chiroqlaridan",
+      "Faqat salon chirog‘idan",
+      "Faqat tovushli signaldan",
+      "Chiroqlarni o‘chirib yurishdan"
+    ],
+    "answer": "A",
+    "explanation": "Qorong‘ida ko‘rinishni ta’minlash uchun tegishli tashqi yoritish asboblaridan foydalaniladi.",
+    "image_file": null
+  },
+  {
+    "topic": "Tormoz tizimi",
+    "question": "Ishchi tormoz tizimi nosoz bo‘lgan transport vositasini boshqarish mumkinmi?",
+    "options": [
+      "Faqat kunduz kuni mumkin",
+      "Mumkin emas",
+      "Faqat past tezlikda mumkin",
+      "Faqat qisqa masofaga mumkin"
+    ],
+    "answer": "B",
+    "explanation": "Ishchi tormoz tizimidagi nosozlik harakat xavfsizligiga jiddiy xavf tug‘diradi.",
+    "image_file": null
+  },
+  {
+    "topic": "Birinchi yordam",
+    "question": "YTHdan keyin jabrlanuvchi hushsiz, ammo nafas olayotgan bo‘lsa, nima qilish muhim?",
+    "options": [
+      "Unga suv ichirish",
+      "Uni keskin silkitish",
+      "Tez yordam chaqirish, nafasini kuzatish va xavfsizligini ta’minlash",
+      "Uni yolg‘iz qoldirish"
+    ],
+    "answer": "C",
+    "explanation": "Tez yordam chaqirish va nafasni kuzatish muhim; jarohat ehtimolini hisobga olib ehtiyotkorlik bilan harakat qilish kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Yuk tashish",
+    "question": "Transport vositasiga ortilgan yuk qanday bo‘lishi kerak?",
+    "options": [
+      "Raqam belgisini berkitishi mumkin",
+      "Haydovchining ko‘rishiga xalaqit berishi mumkin",
+      "Yo‘lga tushib ketishi mumkin",
+      "Ishonchli mahkamlangan va boshqaruv hamda ko‘rinishga xalaqit bermaydigan"
+    ],
+    "answer": "D",
+    "explanation": "Yuk mahkamlanishi va transport vositasini boshqarish xavfsizligiga xalaqit bermasligi kerak.",
+    "image_file": null
+  },
+  {
+    "topic": "Shatakka olish",
+    "question": "Transport vositasini shatakka olishda haydovchi nimaga rioya qilishi kerak?",
+    "options": [
+      "Shatakka olish usuli va YHQda belgilangan xavfsizlik talablariga",
+      "Istalgan tezlikda harakatlanishga",
+      "Faqat tovushli signal berishga",
+      "Yoritish moslamalarini o‘chirib qo‘yishga"
+    ],
+    "answer": "A",
+    "explanation": "Shatakka olishda ulash usuli, tormoz boshqaruvi va boshqa YHQ talablari bajarilishi kerak.",
+    "image_file": null
+  }
+]
