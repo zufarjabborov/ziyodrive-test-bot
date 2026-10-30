@@ -4,9 +4,10 @@ name: ZiyoDrive avtomatik test
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 14 * * *"
+  - cron: "0 4 * * *"
+  - cron: "0 8 * * *"
+  - cron: "0 14 * * *"
+  - cron: "0 16 * * *"
 
 jobs:
   post-test:
